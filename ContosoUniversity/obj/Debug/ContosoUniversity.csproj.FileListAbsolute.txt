@@ -59,3 +59,5 @@ C:\Users\joe\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniv
 C:\Users\joe\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 C:\Users\joe\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 C:\Users\joe\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\joe\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\joe\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
